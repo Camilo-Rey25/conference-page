@@ -1,0 +1,55 @@
+body{
+    background-color: white;
+}
+
+a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+.navbar-brand{
+    margin-left: 20px;
+}
+
+.seccion-1{
+    background-color: #181934;
+    cursor: pointer;
+}
+
+.card{
+    background-color: #181934;
+    cursor: pointer;
+}
+
+.card:hover{
+    box-shadow: 0 0 10px #181934,
+                0 0 15px #181934;
+}
+
+.seccion-3{
+    background-color: #181934;
+}
+
+.img-seccion-3{
+    width: 90%;
+}
+
+.url-register{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.url-register:hover{
+    color: black;
+}
+
+.url-copyright{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.url-copyright:hover{
+    text-decoration:underline;
+}
+
